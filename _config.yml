@@ -234,7 +234,8 @@ defaults:
 # multi language settings
 default_locale_in_subfolder: false
 exclude_from_localizations: ["assets"]
-languages: ["en", "pt-br"]
+# languages: ["en", "pt-br"]
+languages: ["en", "pt-br", "sv"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
