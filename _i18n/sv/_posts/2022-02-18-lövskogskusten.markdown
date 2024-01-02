@@ -23,7 +23,8 @@ Torhamns udde är inte bara ett stycke kust med uddar och vikar och en vidlyftig
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/104_10_wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/13.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
