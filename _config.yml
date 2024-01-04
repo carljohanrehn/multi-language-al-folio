@@ -237,9 +237,10 @@ default_locale_in_subfolder: false
 
 # languages: ["en"]
 # languages: ["pt-br"]
+languages: ["pt-br", "en"]
 # languages: ["sv"]  # Failed! Check and compare with pt-br...
 # languages: ["en", "sv"]
-languages: ["sv", "en"]
+# languages: ["sv", "en"]  # Failed! Check and compare with pt-br...
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
