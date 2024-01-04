@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://carljohanrehn.github.io/multi-language-al-folio/sv/sitemap.xml
