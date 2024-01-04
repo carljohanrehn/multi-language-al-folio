@@ -237,8 +237,8 @@ default_locale_in_subfolder: false
 
 # languages: ["en"]
 # languages: ["pt-br"]
-# languages: ["sv"]  # Failed! Check and compare with pt-br...
-languages: ["en", "sv"]
+languages: ["sv"]  # Failed! Check and compare with pt-br...
+# languages: ["en", "sv"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -407,6 +407,8 @@ jekyll_get_json:
     json: "assets/json/resume_en.json" # it can also be an url
   - data: resume_pt-br
     json: "assets/json/resume_pt-br.json" # it can also be an url
+  - data: resume_sv
+    json: "assets/json/resume_sv.json" # it can also be an url
 jsonresume:
   - basics
   - work
