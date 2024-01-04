@@ -24,3 +24,12 @@ I väster, på andra sidan om Tåkern ligger Väversunda. Den lilla kyrkan där 
 Draken och den korsfäste &mdash; med naiv kraft och ursprunglighet tolkar dessa bilder en stor brytningstid i vår historia: ovan hedendom och halvförgätna myter, ovan fornålder och vikingatid formas en ny tro, ett nytt betraktande av livet, medeltidens ansikte.
 
 Men den utsikt som öppnar sig från kyrkoporten antyder att omvälvningen från forntid till medeltid i andens värld ej hade någon motsvarighet i det timliga. Väversunda kyrka och by ligger odlings historiskt sett i ett forntidslandskap, som förblev detsamma hela medeltiden igenom, ja också genom nyare tid ända in i det sist förflutna seklet. Den tusenåriga situationen är i korthet denna: På ena sidan om byn ligger åkerjorden i mjuka stigningar upp mot Ombergs fot. Detta är den lättodlade, självdränerade, här även kalkrika moränlera, som med förkärlek uppsöktes av det äldsta jordbruket. De danska öarna, Skåne och Falbygden ger andra exempel på sådana nejder, där redan stenåldersmannen förmådde locka skördar av korn och vete ur jorden. Ovanför och utanför dessa inägor öppnade berget vidsträckta utmarksbeten för byns kreatur. Omedelbart på andra sidan om byn utbredde sig Tåkerns sjömark med ofantliga sidvallsängar, mader, fräkenbottnar, det naturliga slåtterområde som gav vinterfodret. Den frodiga strandängen mot Tåkern och själva den grunda, näringsrika sjön var en naturtillgång av oskattbart värde. Mot bakgrunden av vad vi numera vet om danska och skånska bygder, om det inre av Bohuslän, Hornborgaområdet och andra forntidsbygder vågar vi säga, att Väversunda by har fått sitt läge bestämt av Tåkern. Och vad som gäller om Väversunda har sin tillämpning på hela bygden. Kretsen av ärevördiga medeltidskyrkor kring Tåkern markerar på samma sätt som de många små kyrkorna kring Hornborgasjön en urgammal storbygd. Tack vare det lyckliga förhållandet att Tåkern finns kvar, har man i Väversunda forntidsbilden för sina ögon. Det gäller bara att i fantasien förskjuta gränserna mellan vatten och land, eftersom Tåkerns vattenyta på den tiden stod högre; kretsen av produktiv sjömark var med andra ord vidare än nutidens krets av mader och vassar kring det öppna vattnet.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Tåkern-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Tåkern, en av Nordeuropas främsta fågelsjöar. 
+</div>
