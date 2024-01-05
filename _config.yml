@@ -235,10 +235,10 @@ defaults:
 default_locale_in_subfolder: false
 # exclude_from_localizations: ["assets"]
 
-languages: ["en"]
+# languages: ["en"]  # works
 
 # languages: ["en", "pt-br"]  # works
-# languages: ["pt-br", "en"]  # works
+languages: ["pt-br", "en"]  # works
 # languages: ["pt-br"]  # works
 
 # languages: ["en", "sv"]  # works
