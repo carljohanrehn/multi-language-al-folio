@@ -238,10 +238,10 @@ default_locale_in_subfolder: false
 # languages: ["en"]
 
 # languages: ["en", "pt-br"]
-languages: ["pt-br", "en"]
+# languages: ["pt-br", "en"]
 # languages: ["pt-br"]
 
-# languages: ["en", "sv"]
+languages: ["en", "sv"]
 # languages: ["sv", "en"]  # Failed! Check and compare with pt-br...
 # languages: ["sv"]  # Failed! Check and compare with pt-br...
 
@@ -271,8 +271,10 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+# display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['formatting', 'images']
+display_categories: ['den-svenska-södern', 'gammalsverige']
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
