@@ -242,8 +242,8 @@ default_locale_in_subfolder: false
 # languages: ["pt-br", "en"]  # works
 # languages: ["pt-br"]  # works
 
-languages: ["en", "sv"]  # works
-# languages: ["sv", "en"]  # failed (see below)
+# languages: ["en", "sv"]  # works
+languages: ["sv", "en"]  # failed (see below)
 # languages: ["sv"]  # works
 
 # Liquid Exception: Zero vectors can not be normalized in /home/runner/work/multi-language-al-folio/multi-language-al-folio/_layouts/post.html
