@@ -236,11 +236,16 @@ default_locale_in_subfolder: false
 # exclude_from_localizations: ["assets"]
 
 # languages: ["en"]
+
+# languages: ["en", "pt-br"]
+languages: ["pt-br", "en"]
 # languages: ["pt-br"]
-# languages: ["pt-br", "en"]
+
+# languages: ["en", "sv"]
+# languages: ["sv", "en"]  # Failed! Check and compare with pt-br...
 # languages: ["sv"]  # Failed! Check and compare with pt-br...
-languages: ["en", "sv"]
-# languages: ["sv", "en"]  # Failed! Check and compare with pt-br...  Missing i18n key: sv:titles.profiles Using translation '' from default language: sv
+
+# Liquid Exception: Zero vectors can not be normalized in /home/runner/work/multi-language-al-folio/multi-language-al-folio/_layouts/post.html
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
