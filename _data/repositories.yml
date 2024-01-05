@@ -1,8 +1,10 @@
 github_users:
+  - carljohanrehn
   - torvalds
   - alshedivat
 
 github_repos:
+  - carljohanrehn/multi-language-al-folio
   - george-gca/multi-language-al-folio
   - alshedivat/al-folio
   - twbs/bootstrap
