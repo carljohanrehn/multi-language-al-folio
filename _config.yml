@@ -239,8 +239,8 @@ default_locale_in_subfolder: false
 # languages: ["pt-br"]
 # languages: ["pt-br", "en"]
 # languages: ["sv"]  # Failed! Check and compare with pt-br...
-# languages: ["en", "sv"]
-languages: ["sv", "en"]  # Failed! Check and compare with pt-br...  Missing i18n key: sv:titles.profiles Using translation '' from default language: sv
+languages: ["en", "sv"]
+# languages: ["sv", "en"]  # Failed! Check and compare with pt-br...  Missing i18n key: sv:titles.profiles Using translation '' from default language: sv
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
