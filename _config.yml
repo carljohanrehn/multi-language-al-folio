@@ -272,8 +272,14 @@ jekyll-archives:
 
 # display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
 # display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
-display_tags: ['formatting', 'images', 'skåne', 'blekinge', 'östergötland']
-display_categories: ['den-svenska-södern', 'gammalsverige']
+display_tags: ['skåne', 'blekinge', 'östergötland']
+display_categories: [
+  'den-svenska-södern',
+  'De stora öarna i Östersjön',
+  'gammalsverige',
+  'Mot väster- och österhav',
+  'Skogsland och fjäll'
+]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
