@@ -243,8 +243,9 @@ default_locale_in_subfolder: false
 # languages: ["pt-br"]  # works
 
 # languages: ["en", "sv"]  # works
-languages: ["sv", "en"]  # works if related_blog_posts.enabled = false -> See README.related_posts and tags (cannot be empty?); need to check how related_post: false/true works in post headers; what about multi-language setting
+# languages: ["sv", "en"]  # works if related_blog_posts.enabled = false -> See README.related_posts and tags (cannot be empty?); need to check how related_post: false/true works in post headers; what about multi-language setting
 # languages: ["sv"]  # works
+languages: sv  # works
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -274,13 +275,19 @@ jekyll-archives:
 # display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 # display_tags: ['Skåne', 'Blekinge', 'Östergötland']
 display_tags: []
-display_categories: [
-  'Den svenska södern',
-  'De stora öarna i Östersjön',
-  'Gammalsverige',
-  'Mot väster- och österhav',
-  'Skogsland och fjäll'
-]
+#display_categories: [
+#  'Den svenska södern',
+#  'De stora öarna i Östersjön',
+#  'Gammalsverige',
+#  'Mot väster- och österhav',
+#  'Skogsland och fjäll'
+#]
+display_categories:
+  - Den svenska södern,
+  - De stora öarna i Östersjön,
+  - Gammalsverige,
+  - Mot väster- och österhav,
+  - Skogsland och fjäll
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
