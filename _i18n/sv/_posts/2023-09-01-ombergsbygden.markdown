@@ -3,7 +3,7 @@ layout: post
 title: Ombergsbygden
 date: 2023-09-01 14:11:56
 description:
-tags:
+tags: östergötland
 categories: gammalsverige
 ---
 

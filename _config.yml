@@ -120,8 +120,8 @@ pagination:
   title: ':title - pagination.page :num'
 
 related_blog_posts:
-  # enabled: true  # fix later (see post.html how to list related blog posts)
-  enabled: false
+  enabled: true  # fix later (see post.html how to list related blog posts)
+  # enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -243,7 +243,7 @@ default_locale_in_subfolder: false
 # languages: ["pt-br"]  # works
 
 # languages: ["en", "sv"]  # works
-languages: ["sv", "en"]  # works if related_blog_posts.enabled = false -> need to check how related_post: false/true works in post headers; what about multi-language setting
+languages: ["sv", "en"]  # works if related_blog_posts.enabled = false -> See README.related_posts and tags (cannot be empty?); need to check how related_post: false/true works in post headers; what about multi-language setting
 # languages: ["sv"]  # works
 
 # -----------------------------------------------------------------------------
