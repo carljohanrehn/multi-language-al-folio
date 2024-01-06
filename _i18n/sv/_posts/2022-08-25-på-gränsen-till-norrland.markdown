@@ -26,3 +26,12 @@ Norska fjäll och svenska skogshedar har byggt upp det stora deltat och bygger a
 Landhöjningen byggde vidare åt söder, och älven förlängde sitt lopp. Så kom den vändpunkt i Vänerns historia, som var ingenting mindre än sjöns skapelse ur havet. Vattnet blev strömt över bergtröskeln vid Vargön, så småningom också i klipprännorna vid Trollhättan. Vänern var en insjö. Men Klarälven har fortsatt skapelseverket och under en tidrymd av sex, sju tusen år byggt upp en hel svensk landsända kring de kala urbergsskären.
 
 Hammaröskage ytterst mot den öppna Vänern har en egen stark, hård kontur; det är urberg och dundrande bränning. Ytterst i skummet guppar en tung planka, bågböjd, med rostiga järnnitar &mdash; en skeppsplanka, en vrakspillra. Vänern har ännu något av havets storhet, dess makt att smula sönder och förgöra. Ett väldigt, mörkt fartygsskrov, som sakta ångar in mot deltat, mot Skoghallsverken, talar också om havet; det förhåller sig ju så att vi människor på nytt har öppnat leden till havet. En flotta av lastångare från världens alla hörn går in till kaj vid Skoghall för att hämta vad den svenska skogen ger.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sysslebäck-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Klarälvdalen och Sysslebäck från Branäsberget.
+</div>
