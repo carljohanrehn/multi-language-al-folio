@@ -120,8 +120,8 @@ pagination:
   title: ':title - pagination.page :num'
 
 related_blog_posts:
-  enabled: true  # fix later (see post.html how to list related blog posts)
-  # enabled: false
+  # enabled: true  # fix later (see post.html how to list related blog posts)
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
