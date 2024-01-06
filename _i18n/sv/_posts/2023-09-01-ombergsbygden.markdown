@@ -3,8 +3,8 @@ layout: post
 title: Ombergsbygden
 date: 2023-09-01 14:11:56
 description:
-tags: östergötland
-categories: gammalsverige
+tags: Östergötland
+categories: Gammalsverige
 ---
 
 Till Hov, till Tåkern och Ombergsbygden går från Skänninge en ur gammal landsväg i västlig riktning. Liksom alla gamla vägar över slätten löper den på en hög vägbank, ordentligt upplyft över det lågland som i vägens äldsta århundraden var en sammanhängande blöt och besvärlig kärrmark. Nu har man idel täckdikade fält om kring sig &mdash; sådana vidder att knappt de skånska storbygderna visar något motsvarande. Vägen går fram i krökar, som inte längre har någon riktig motivering i detta väldränerade landskap. Man har god tid att låta blicken dröja vid kyrktornet i Bjälbo, som sticker upp över en flack jordhöjd &mdash; på folkungarnas tid det enda stycke mark som gav boplats och åkerjord utom räckhåll för vårens översvämningar.

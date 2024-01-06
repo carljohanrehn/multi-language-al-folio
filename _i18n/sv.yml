@@ -41,7 +41,7 @@ descriptions:
   unk: Sidan saknas, försök igen!
 blog:
   description: Fritt efter Carl Fries Sverige-böcker
-  name: Den svenska södern # blog_name will be displayed in your blog page
+  name: Svenska upptäckter # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Here are some more articles you might like to read next:"
