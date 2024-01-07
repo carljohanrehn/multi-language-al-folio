@@ -283,12 +283,13 @@ display_tags: []
 #  'Mot väster- och österhav',
 #  'Skogsland och fjäll'
 #]
-display_categories:
-  - Den svenska södern
-  - De stora öarna i Östersjön
-  - Gammalsverige
-  - Mot väster- och österhav
-  - Skogland och fjäll
+#display_categories:
+#  - Den svenska södern
+#  - De stora öarna i Östersjön
+#  - Gammalsverige
+#  - Mot väster- och österhav
+#  - Skogland och fjäll
+display_categories: []
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
