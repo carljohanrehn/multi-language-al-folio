@@ -14,3 +14,12 @@ En sommardag för tjugofem år sedan såg jag för första gången en sådan bop
 
 Framför oss hade vi en åker i brant stigning upp mot en kulle med björkar och enbuskar, en gammal hagmark av den rätta sörmländska sorten. Däruppe, i kanten mot björkhagen skulle det vara. Och där fann vi snart vad vi sökte: krukskärvor i mängd, stora och små, enkelt men verkningsfullt ornerade med punkter och streck. De låg där bland kokorna överst i det uppbrukade jordskiktet. Med egna händer lyfte vi de kantiga, porösa skärvorna, såg och kände på mönstret, som för fyra tusen år sedan &mdash; på pyramidernas tid &mdash; hade snittats och tryckts in i det ännu våta lergodset. Då fanns stranden, östersjöstranden, härinne djupast i landskapet. Naturen var rik och ännu nästan oberörd. Urskogar av ädla lövträd buktade ut över vattenbrynet. Fjärdarna vimlade av fågel och fisk. Och &mdash; först och sist &mdash; det var gott om säl.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tyrislöt-hamn-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Tyrislöts hamn i Sankt Annas skärgård.
+</div>
+

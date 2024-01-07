@@ -14,6 +14,15 @@ Detta är landskapets geografi i fågelperspektiv, och därmed är i terrängen 
 
 De stora Båvenfjärdarna ger också på nära håll en vision av skärgård; en förträfflig överblick, sannolikt den förnämsta inom hela området, erbjuder Klevaberget i Björnlunda socken.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/vibyholm-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Vibyholms slott i sjön Båven.
+</div>
+
 Från Kleva gård leder en stig upp på en fin, kullrig urbergsrygg, som sträcker sig i västlig riktning ut mot Båven. Man går fram på kala gråberget, över mattor av renlav, genom ljung och blåbärsris. Från skogsdalen till höger under berget kommer kryddrika pustar av skvattram; det är som osynliga moln av skogens egen doft. Till vänster mellan hällmarkens tallar glittrar det av vatten och snart har man öppen utsikt.
 
 Mitt första intryck av denna vandring och denna syn var en mycket bestämd förnimmelse: det här har jag sett förut &mdash; men var? Minnet gav strax besked. Det var en gång på Ornö. Därute på den stora ön i Sörmlands skärgård går man fram precis som här, högt på bergryggen, över mattor av renlav och ljung, medan vinden spelar i de vridna tallarna och fjärden glittrar där ute. Det är samma landskap, samma mark. Att vattnet som sköljer kring Ornö har en svag sälta i sig &mdash; ja, det är en skillnad, men i stort sett den enda. Tavlan är djupgrön av skog och grå av urberg, som oförmedlat stupar i sjön. Men i barrmörkret över berg och öar finns det små ljusa gläntor; det är samma sak som på Ornö, små saftigt gröna fläckar, betingade av lera i sluttningar och vinklar mot vattnet. Där lyser det nästan ärggrönt av havre, grågrönt av mognande råg, djupgrönt av vete, som nyss har gått i ax, guldgrönt av vallarnas gräs. Vid den synen förstår man att det är vi människor som har lockat fram idyllerna här i grå bergslandet. Var och en av dessa gläntor har en röd prick i mitten: det är en gård, en boplats.
@@ -23,4 +32,3 @@ I hela detta väldiga landskap, denna allvarliga, nästan dystra skärgård inne
 Från trädgården på en hög brink ovan sjön har man ett innehållsrikt panorama över land och vatten. I öster, söder och väster blänker sjön mellan skogsstränder, som här har ett mjukare drag än därute kring Storbåven. Det är lövskog av björk och ek, gamla hagmarker, på väg att övergå till skog; liksom på andra håll i Sverige, där hagmarkerna växer igen, vandrar granen in och spränger bitvis den lövljusa ramen. Men närmast omkring oss, där hagen alltjämt hävdas genom röjning och bete, gonar sig i försommarsolen det uråldriga svenska herdelandskap med hängbjörkar, kortbetat smaragdgrönt gräs och fridsamt kringströvande kor, som en gång var bygdens kännetecken just i Sörmland.
 
 Fjärden blånar kring denna idyll, och mitt i hagmarken rundar sig ett halvt dussin ättehögar, minnen av den järnåldersgård som fanns här på udden sex, sju hundra år efter Kristus men innan kristendomen nådde hit. Under dessa sista hedniska århundraden begravdes de döda i sådana ättebackar intill gårdar och byar.
-

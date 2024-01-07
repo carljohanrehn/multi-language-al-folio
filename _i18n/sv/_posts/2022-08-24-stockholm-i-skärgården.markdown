@@ -22,7 +22,15 @@ Se hur skyggt, hur ängsligt och på en gång betagande naturen tittar fram i sm
 
 Båten glider utåt, leden vidgas, själva staden släpper sitt grepp. Men där kajerna äntligen tar slut och berghällarna rundar sig i vattenlinjen, där hugger villabebyggelsen tag i berg och strand. Hela vägen till Vaxholm och mycket längre ut är stranden bit för bit ockuperad av denna bebyggelse.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/saltsjön-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Saltsjön och Stockholms inlopp med Skeppsholmen, Kastellholmen och Djurgården.
+</div>
+
 Det underbara, det nästan ofattliga är att mitt i denna innersta exploaterade skärgård finns ett vidsträckt område, som ligger fredat och fullständigt ofördärvat, ett stort stycke av Gammalsverige inpå Stockholms knutar. Det är Bogesund. Bara några steg mellan villatomterna vid Vaxholm, och vägen svänger ner mot en bro. På andra sidan bron möter en fri, grön strand med yppiga kärrängar och skogsbryn, med åkrar och små röda torp i vikarna. Att gå över den bron och in i dessa marker, det är som att gå tillbaka i tiden till sekelskiftets mellansvenska bygd. En sommardag härute är en återkomst till barndomens mark. Där fanns allt detta &mdash; tystnaden i solskenet, smultrontidens doft och först och sist de väldiga träden. Över den stig genom hagen, där man tassade fram vid sju års ålder, tycktes björkarna jättelika. Här sluter sig skogen kring en vuxen människa lika övermäktig som kring barnets lilla vrå. Och jag tänker, när jag ser denna skog, de grova tallarna på bergen, de granna björkarna i hagar och åkerkanter, de tunga svartgröna alarna vid stranden: detta är markens vilja. Så växer de svenska träden, när de hägnas av en hundraårig fred.
 
 I lundar och lövdälder gömmer sig de härligaste skogsängar. Där surrar humlor över skogsklöver och blåklockor, där skyldrar svenska soldaten &#8220;i gulblå rotar&#8221;, och den stora spenörten lyfter sina vita parasoller långt inne i ekarnas skugga. All den svenska markens blomsterprakt finns där att glädjas åt medan våren och sommaren skrider fram.
-

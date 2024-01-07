@@ -29,3 +29,12 @@ Urkunderna &mdash; kartor, beskrivningar i samband med skiften eller försäljni
 Ännu i början av 1800-talet bestod Hälsingborgs- och Ängelholms slätterna ungefär till hälften av ofantliga betesmarker, gemensamma för byarna runt omkring dem. De lägre partierna var våta ängar, delvis bevuxna med &#8220;surskog&#8221;. Ängsmarken tjänade i första rummet till slåtter. Surskogen, som bestod av pil, sälg och även ask, gav löv åt djuren, ris till bränsle och en del gagnvirke. Naturligtvis fanns det åkermark vid byarna, men i landskapet spelade åkern en obetydlig roll i jämförelse med de ofta milsvida betesmarkerna. Med andra ord: dessa slättbygder var i stort sett likartade med bondebygderna längre söderut i Skåne och i Danmark.
 
 De stora samfällda betesområdena gick här under benämningen hed; det var Ylles hed, Kylte hed och så vidare. Med all säkerhet var de ofta bevuxna med ljung; redan på Hälsingborgsslätten mötte man de mörka, vidöppna ljunghedar som bredde ut sig över nästan hela Hallandsås, över de halländska kustbergen och på ömse sidor om den forna riksgränsen.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lagan-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Lagan nära Hamneda.
+</div>
