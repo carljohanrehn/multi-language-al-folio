@@ -15,24 +15,24 @@ main:
 titles:
   about: om
   blog: blog
-  cv: cv
-  latest_posts: latest posts
-  news: nytt
-  profiles: people
-  projects: projects
-  publications: publications
-  repositories: repositories
-  selected_publications: selected publications
-  teaching: teaching
-  submenus: submenus
+#   cv: cv
+#  latest_posts: latest posts
+#  news: nytt
+#  profiles: people
+#  projects: projects
+#  publications: publications
+#  repositories: repositories
+#  selected_publications: selected publications
+#  teaching: teaching
+#  submenus: submenus
   unk: sidan hittades inte
 descriptions:
   about: Om mig.
 #  archive-category: an archive of posts in this category
 #  archive-tag: an archive of posts with this tag
 #  archive-year: an archive of posts from this year
-  archive-category: andra relaterade och likartade inlägg
-  archive-tag: andra inlägg om samma landskap
+  archive-category: andra relaterade inlägg
+  archive-tag: andra relaterade inlägg
   archive-year: andra inlägg från samma år
   blog: Djupdykningar i Carl Fries sverigeskildringar
   cv: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
