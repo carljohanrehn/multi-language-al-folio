@@ -20,3 +20,11 @@ Också bygden kring Lina myr har gått in i en ny tid med nya metoder för vårt
 
 För mig är Lina myr ett lyckligt ungdomsminne. Redan mitt första besök i trakten förde mig samman med Arvid Ohlsson, som har sin gård i Vallstena. Hans levande kunskap om natur och odling gav just den rätta bakgrunden åt den solfyllda, yppiga verklighet som fanns omkring oss.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gothemsån-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Myr vid Gothemsån nära Åminne på Gotland.
+</div>
