@@ -18,8 +18,6 @@ Vad som här gav bilden djup och rikedom var Lina myr, en natur tillgång av vä
 
 Också bygden kring Lina myr har gått in i en ny tid med nya metoder för vårt bruk av mark och vatten. En upprensning av utloppet, Gothemsån, och en stor avdikning har kommit myren att krympa till en obetydlighet och förlora det mesta av sin forna rikedom. Myrbonden med sin starrslåtter har nyss inför allas ögon lämnat fältet fritt åt sin son med traktordriven plog. Vårt släktled är det sista som har sett myren i gammal storhet.
 
-För mig är Lina myr ett lyckligt ungdomsminne. Redan mitt första besök i trakten förde mig samman med Arvid Ohlsson, som har sin gård i Vallstena. Hans levande kunskap om natur och odling gav just den rätta bakgrunden åt den solfyllda, yppiga verklighet som fanns omkring oss.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/gothemsån-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
@@ -28,3 +26,5 @@ För mig är Lina myr ett lyckligt ungdomsminne. Redan mitt första besök i tra
 <div class="caption">
     Myr vid Gothemsån nära Åminne på Gotland.
 </div>
+
+För mig är Lina myr ett lyckligt ungdomsminne. Redan mitt första besök i trakten förde mig samman med Arvid Ohlsson, som har sin gård i Vallstena. Hans levande kunskap om natur och odling gav just den rätta bakgrunden åt den solfyllda, yppiga verklighet som fanns omkring oss.
