@@ -1,7 +1,8 @@
 ---
 layout: page
 title: titles.submenus
-nav: true
+# nav: true
+nav: false
 nav_order: 8
 dropdown: true
 children:
