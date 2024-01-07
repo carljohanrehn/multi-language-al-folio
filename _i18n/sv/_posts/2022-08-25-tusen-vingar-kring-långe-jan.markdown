@@ -25,3 +25,12 @@ Sensommar över Öland. Förbränt, rödbrunt som stäppen efter vårens korta b
 Den sista byn mot söder är Näsby. Strax söder om denna by löper &#8220;stora muren&#8221;, en väldig kalkstensmur, byggd på Karl X Gustavs tid tvärs över ön från öster till väster; den var avsedd att hålla kronviltet &mdash; hjortarna &mdash; kvar inom den kungliga jaktmarken. Söder om muren ligger Ölands södra udde med kungsgården Ottenby, &#8220;tokmarken&#8221;; där hararna valsar bland gulblommig ölandstok, den stora lunden, där hjortarna ännu betar, och längst i söder fyren, Långe Jan, ombrusad av vind och fågelvingar.
 
 Fyrsamhället härute på udden är en liten värld för sig. Vid foten av det mäktiga fyrtornet, byggt av öländsk kalksten på Gustav III:s tid, ligger inom täta häckar, som har planterats till skydd mot den eviga blåsten, en liten klunga av byggnader, fyrmästarens, fyrvaktarens och fyrbiträdets bostäder, ett skolhus och just ingenting mera. Bränningen mullrar mot revet därute, vinden sliter i träden kring stugorna, men härinne mellan häckarna är det vänligt och stilla. Solfläckarna leker på den kalkstensbelagda planen. Fjärilar fladdrar över buskar och gräs; här lyser själva amiralen i sin präktiga uniform, svart, vit och cinnoberröd, bland nässelfjärilar, kålfjärilar och andra menige i denna lätta armé. Sylvior, lövsångare, rödstjärtar, flugsnappare, törnskator, allt vad som finns av småfåglar på flyttning fladdrar förstulet mellan träden, lockar och smyger överallt i det gröna. Den lilla fyrträdgården är det sista skyddet för småfåglarna på deras färd mot söder. Här stannar de gärna en dag eller två, jagar insekter i solen och sover på kvist före den långa, äventyrliga resan över havet.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ölands-södra-udde-10-wtrpxl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Ölands södra udde med Långe Jan.
+</div>
