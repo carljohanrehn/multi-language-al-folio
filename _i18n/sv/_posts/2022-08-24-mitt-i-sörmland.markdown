@@ -20,7 +20,7 @@ De stora Båvenfjärdarna ger också på nära håll en vision av skärgård; en
     </div>
 </div>
 <div class="caption">
-    Vibyholms slott i sjön Båven.
+    Skärgård i sjön Båven.
 </div>
 
 Från Kleva gård leder en stig upp på en fin, kullrig urbergsrygg, som sträcker sig i västlig riktning ut mot Båven. Man går fram på kala gråberget, över mattor av renlav, genom ljung och blåbärsris. Från skogsdalen till höger under berget kommer kryddrika pustar av skvattram; det är som osynliga moln av skogens egen doft. Till vänster mellan hällmarkens tallar glittrar det av vatten och snart har man öppen utsikt.
