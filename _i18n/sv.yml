@@ -23,8 +23,7 @@ titles:
   publications: publications
   repositories: repositories
   selected_publications: selected publications
-  # teaching: teaching
-  teaching:
+  teaching: teaching
   submenus: submenus
   unk: sidan hittades inte
 descriptions:
