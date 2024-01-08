@@ -8,13 +8,14 @@ main:
 #    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #    Photos from <a href="https://wikipedia.com" target="_blank">Wikipedia</a>.
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
-  subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#  subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+  subtitle: Sverigeskildringar. Bakgrund etc.
 titles:
   about: om
   blog: blog
