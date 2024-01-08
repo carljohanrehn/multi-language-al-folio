@@ -1,1 +1,2 @@
-A simple inline announcement.
+[//]: # (A simple inline announcement.)
+Enkel nyhetsrubrik.

@@ -77,11 +77,15 @@ months:
     november: nov.
     december: dec.
 news:
-  empty: No news so far...
+#  empty: No news so far...
+  empty: Inga nyheter...
   titles:
-    news1: A simple inline announcement.
-    news2: A long announcement with details
-    news3: "A simple inline announcement with Markdown emoji! :sparkles: :smile:"
+#    news1: A simple inline announcement.
+#    news2: A long announcement with details
+#    news3: "A simple inline announcement with Markdown emoji! :sparkles: :smile:"
+    news1: Enkel nyhetsrubrik.
+    news2: Detaljerad nyhetsrubrik.
+    news3: "Enkel nyhetsrubrik med Markdown emoji! :sparkles: :smile:"
 pagination:
   newer: Newer
   older: Older
